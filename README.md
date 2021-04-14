@@ -5,5 +5,5 @@ We have created an Auto Encoder Model CNN based model with Encoder-Decoder Netwo
 
 Google Colab platform is used for the training purpose.
 
-We have trained the network on 500 Gray scale images with 128x128 dimension.
+We have trained the network on 500 Gray scale human faced images with 128x128 dimension.
 
